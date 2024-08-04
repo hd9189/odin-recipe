@@ -1,0 +1,1 @@
+This repo is a simple recipe project website following the basics of web dev from the Odin Project. This is to mainly remind myself of the basics and get back into web dev.
